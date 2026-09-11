@@ -1,0 +1,424 @@
+{
+  "orphan": [
+    {
+      "component": "OptionValueField",
+      "path": "components/sections/ecommerce/admin/product-listing/steps/variations/OptionValueField",
+      "reason": "无引用/疑似未被使用",
+      "detail": "在全部 src/components/sections 范围内搜索,没有任何文件 import 这个组件名"
+    },
+    {
+      "component": "ProductVariants",
+      "path": "components/sections/ecommerce/admin/product-listing/steps/variations/ProductVariants",
+      "reason": "无引用/疑似未被使用",
+      "detail": "在全部 src/components/sections 范围内搜索,没有任何文件 import 这个组件名"
+    },
+    {
+      "component": "CategorySelect",
+      "path": "components/sections/ecommerce/admin/product-listing/steps/vital-info/CategorySelect",
+      "reason": "无引用/疑似未被使用",
+      "detail": "在全部 src/components/sections 范围内搜索,没有任何文件 import 这个组件名"
+    },
+    {
+      "component": "ProductList",
+      "path": "components/sections/ecommerce/customer/wishlist/ProductList",
+      "reason": "无引用/疑似未被使用",
+      "detail": "在全部 src/components/sections 范围内搜索,没有任何文件 import 这个组件名"
+    },
+    {
+      "component": "EducationFormItem",
+      "path": "components/sections/hiring/candidate/job-application/personal-information/EducationInfo",
+      "reason": "无引用/疑似未被使用",
+      "detail": "在全部 src/components/sections 范围内搜索,没有任何文件 import 这个组件名"
+    },
+    {
+      "component": "ExperienceFormItem",
+      "path": "components/sections/hiring/candidate/job-application/personal-information/ExperienceInfo",
+      "reason": "无引用/疑似未被使用",
+      "detail": "在全部 src/components/sections 范围内搜索,没有任何文件 import 这个组件名"
+    },
+    {
+      "component": "StrengthsAndWeaknesses",
+      "path": "components/sections/hiring/candidate/job-application/questionaries/VideoResponses",
+      "reason": "无引用/疑似未被使用",
+      "detail": "在全部 src/components/sections 范围内搜索,没有任何文件 import 这个组件名"
+    },
+    {
+      "component": "ApplyingReason",
+      "path": "components/sections/hiring/candidate/job-application/questionaries/VideoResponses",
+      "reason": "无引用/疑似未被使用",
+      "detail": "在全部 src/components/sections 范围内搜索,没有任何文件 import 这个组件名"
+    },
+    {
+      "component": "SubGoalItem",
+      "path": "components/sections/hrm/performance-management/new-goal/ProgressWeightForm",
+      "reason": "无引用/疑似未被使用",
+      "detail": "在全部 src/components/sections 范围内搜索,没有任何文件 import 这个组件名"
+    },
+    {
+      "component": "MultiSelectConditionFields",
+      "path": "components/sections/project/automation/condition-fields/MultiSelectConditionFields",
+      "reason": "无引用/疑似未被使用",
+      "detail": "在全部 src/components/sections 范围内搜索,没有任何文件 import 这个组件名"
+    },
+    {
+      "component": "GroupRow",
+      "path": "components/sections/project/create-project/steps/Group",
+      "reason": "无引用/疑似未被使用",
+      "detail": "在全部 src/components/sections 范围内搜索,没有任何文件 import 这个组件名"
+    },
+    {
+      "component": "StatusRow",
+      "path": "components/sections/project/create-project/steps/Status",
+      "reason": "无引用/疑似未被使用",
+      "detail": "在全部 src/components/sections 范围内搜索,没有任何文件 import 这个组件名"
+    },
+    {
+      "component": "StatusGroup",
+      "path": "components/sections/project/create-project/steps/Status",
+      "reason": "无引用/疑似未被使用",
+      "detail": "在全部 src/components/sections 范围内搜索,没有任何文件 import 这个组件名"
+    },
+    {
+      "component": "VideoCapture",
+      "path": "components/sections/social/tab-panels/posts-panel/post/create-post/VideoCapture",
+      "reason": "无引用/疑似未被使用",
+      "detail": "在全部 src/components/sections 范围内搜索,没有任何文件 import 这个组件名"
+    }
+  ],
+  "resolved-deeper": [
+    {
+      "component": "ChangeDateActionFields",
+      "path": "components/sections/project/automation/action-fields/ChangeDateActionFields",
+      "reason": "嵌套更深,放宽到 4 层后追到了",
+      "detail": "父容器: components/sections/project/pages/CreateAutomation"
+    },
+    {
+      "component": "ChangePriorityActionFields",
+      "path": "components/sections/project/automation/action-fields/ChangePriorityActionFields",
+      "reason": "嵌套更深,放宽到 4 层后追到了",
+      "detail": "父容器: components/sections/project/pages/CreateAutomation"
+    },
+    {
+      "component": "CreateTaskSubtaskActionFields",
+      "path": "components/sections/project/automation/action-fields/CreateTaskSubtaskActionFields",
+      "reason": "嵌套更深,放宽到 4 层后追到了",
+      "detail": "父容器: components/sections/project/pages/CreateAutomation"
+    },
+    {
+      "component": "GroupSelectActionFields",
+      "path": "components/sections/project/automation/action-fields/GroupSelectActionFields",
+      "reason": "嵌套更深,放宽到 4 层后追到了",
+      "detail": "父容器: components/sections/project/pages/CreateAutomation"
+    },
+    {
+      "component": "StatusSelectActionFields",
+      "path": "components/sections/project/automation/action-fields/StatusSelectActionFields",
+      "reason": "嵌套更深,放宽到 4 层后追到了",
+      "detail": "父容器: components/sections/project/pages/CreateAutomation"
+    },
+    {
+      "component": "DateBeforeAfterConditionFields",
+      "path": "components/sections/project/automation/condition-fields/DateBeforeAfterConditionFields",
+      "reason": "嵌套更深,放宽到 4 层后追到了",
+      "detail": "父容器: components/sections/project/pages/CreateAutomation"
+    },
+    {
+      "component": "FromToSelectConditionFields",
+      "path": "components/sections/project/automation/condition-fields/FromToSelectConditionFields",
+      "reason": "嵌套更深,放宽到 5 层后追到了",
+      "detail": "父容器: components/sections/project/pages/CreateAutomation"
+    },
+    {
+      "component": "AutomationDatePicker",
+      "path": "components/sections/project/automation/shared/AutomationDatePicker",
+      "reason": "嵌套更深,放宽到 5 层后追到了",
+      "detail": "父容器: components/sections/project/pages/CreateAutomation"
+    },
+    {
+      "component": "SearchableMultiSelect",
+      "path": "components/sections/project/automation/shared/SearchableMultiSelect",
+      "reason": "嵌套更深,放宽到 5 层后追到了",
+      "detail": "父容器: components/sections/project/pages/CreateAutomation"
+    }
+  ],
+  "dialog-like-chain": [
+    {
+      "component": "CalendarEventForm",
+      "path": "components/sections/calendar/EventDialog/CalendarEventForm",
+      "reason": "引用链上出现 Dialog/Modal/Drawer,可能是独立弹窗的局部表单",
+      "detail": "引用链: components/sections/calendar/EventDialog/EventDialog <- components/sections/calendar/index"
+    },
+    {
+      "component": "CalendarTaskForm",
+      "path": "components/sections/calendar/EventDialog/CalendarTaskForm",
+      "reason": "引用链上出现 Dialog/Modal/Drawer,可能是独立弹窗的局部表单",
+      "detail": "引用链: components/sections/calendar/EventDialog/EventDialog <- components/sections/calendar/index"
+    },
+    {
+      "component": "EventDateTimePicker",
+      "path": "components/sections/calendar/EventDialog/EventDateTimePicker",
+      "reason": "引用链上出现 Dialog/Modal/Drawer,可能是独立弹窗的局部表单",
+      "detail": "引用链: components/sections/calendar/EventDialog/CalendarEventForm <- components/sections/calendar/EventDialog/CalendarTaskForm <- components/sections/calendar/EventDialog/EventDialog <- components/sections/calendar/EventDialog/EventDialog"
+    },
+    {
+      "component": "EventDetailsSection",
+      "path": "components/sections/calendar/EventDialog/EventDetailsSection",
+      "reason": "引用链上出现 Dialog/Modal/Drawer,可能是独立弹窗的局部表单",
+      "detail": "引用链: components/sections/calendar/EventDialog/CalendarEventForm <- components/sections/calendar/EventDialog/EventDialog <- components/sections/calendar/index"
+    },
+    {
+      "component": "FilterSection",
+      "path": "components/sections/ecommerce/customer/products/filter-panel/FilterSection",
+      "reason": "引用链上出现 Dialog/Modal/Drawer,可能是独立弹窗的局部表单",
+      "detail": "引用链: components/sections/ecommerce/admin/product-list/ProductListContainer <- components/sections/ecommerce/customer/products/filter-panel/index <- components/sections/hiring/candidate/job-list/FilterDrawer <- components/sections/ecommerce/admin/product-list/index"
+    },
+    {
+      "component": "Status",
+      "path": "components/sections/project/create-project/steps/Status",
+      "reason": "引用链上出现 Dialog/Modal/Drawer,可能是独立弹窗的局部表单",
+      "detail": "引用链: components/sections/kanban/kanban/page-header/filter-menu/FilterMenu <- components/sections/project/create-project/CreateProjectStepper <- components/sections/chat/sidebar/filters/SearchFilterMenu <- components/sections/chat/sidebar/layouts/SidebarHeader"
+    }
+  ],
+  "needs-manual-review": [
+    {
+      "component": "ContentSettingsForm",
+      "path": "components/sections/content/upload/blog/info/ContentSettingsForm",
+      "reason": "有引用但 8 层内仍未找到 FormProvider 来源,需要人工核实",
+      "detail": "引用链(前几层): components/sections/content/upload/blog/info/index"
+    },
+    {
+      "component": "PrimaryContentForm",
+      "path": "components/sections/content/upload/blog/info/PrimaryContentForm",
+      "reason": "有引用但 8 层内仍未找到 FormProvider 来源,需要人工核实",
+      "detail": "引用链(前几层): components/sections/content/upload/blog/info/index"
+    },
+    {
+      "component": "StoryPreview",
+      "path": "components/sections/content/upload/blog/story/preview/StoryPreview",
+      "reason": "有引用但 8 层内仍未找到 FormProvider 来源,需要人工核实",
+      "detail": "引用链(前几层): components/sections/content/upload/blog/index"
+    },
+    {
+      "component": "Accessibility",
+      "path": "components/sections/content/upload/common/form-fields/Accessibility",
+      "reason": "有引用但 8 层内仍未找到 FormProvider 来源,需要人工核实",
+      "detail": "引用链(前几层): components/sections/content/upload/blog/info/ContentSettingsForm <- components/sections/content/upload/media/index <- components/sections/content/upload/blog/info/index"
+    },
+    {
+      "component": "TargetAudience",
+      "path": "components/sections/content/upload/common/form-fields/TargetAudience",
+      "reason": "有引用但 8 层内仍未找到 FormProvider 来源,需要人工核实",
+      "detail": "引用链(前几层): components/sections/content/upload/blog/info/ContentSettingsForm <- components/sections/content/upload/media/index <- components/sections/content/upload/blog/info/index"
+    },
+    {
+      "component": "Thumbnail",
+      "path": "components/sections/content/upload/common/form-fields/Thumbnail",
+      "reason": "有引用但 8 层内仍未找到 FormProvider 来源,需要人工核实",
+      "detail": "引用链(前几层): components/sections/content/upload/blog/info/PrimaryContentForm <- components/sections/content/upload/media/index <- components/sections/content/upload/blog/info/index"
+    },
+    {
+      "component": "Topics",
+      "path": "components/sections/content/upload/common/form-fields/Topics",
+      "reason": "有引用但 8 层内仍未找到 FormProvider 来源,需要人工核实",
+      "detail": "引用链(前几层): components/sections/content/upload/blog/info/ContentSettingsForm <- components/sections/content/upload/media/index <- components/sections/content/upload/blog/info/index"
+    },
+    {
+      "component": "MediaUpload",
+      "path": "components/sections/content/upload/media/form-fields/media-upload/index",
+      "reason": "有引用但 8 层内仍未找到 FormProvider 来源,需要人工核实",
+      "detail": "引用链(前几层): components/sections/content/upload/media/index"
+    },
+    {
+      "component": "PodcastPlaylist",
+      "path": "components/sections/content/upload/media/form-fields/podcast-playlist/index",
+      "reason": "有引用但 8 层内仍未找到 FormProvider 来源,需要人工核实",
+      "detail": "引用链(前几层): components/sections/content/details/podcast/main/recommendations/RecommendedPodcast <- components/sections/content/upload/media/index <- components/sections/content/details/podcast/main/recommendations/index"
+    },
+    {
+      "component": "PodcastPlaylistMeta",
+      "path": "components/sections/content/upload/media/form-fields/PodcastPlaylistMeta",
+      "reason": "有引用但 8 层内仍未找到 FormProvider 来源,需要人工核实",
+      "detail": "引用链(前几层): components/sections/content/upload/media/index"
+    },
+    {
+      "component": "Thumbnail",
+      "path": "components/sections/content/upload/media/form-fields/Thumbnail",
+      "reason": "有引用但 8 层内仍未找到 FormProvider 来源,需要人工核实",
+      "detail": "引用链(前几层): components/sections/content/upload/blog/info/PrimaryContentForm <- components/sections/content/upload/media/index <- components/sections/content/upload/blog/info/index"
+    },
+    {
+      "component": "Topics",
+      "path": "components/sections/content/upload/media/form-fields/Topics",
+      "reason": "有引用但 8 层内仍未找到 FormProvider 来源,需要人工核实",
+      "detail": "引用链(前几层): components/sections/content/upload/blog/info/ContentSettingsForm <- components/sections/content/upload/media/index <- components/sections/content/upload/blog/info/index"
+    },
+    {
+      "component": "Transcript",
+      "path": "components/sections/content/upload/media/form-fields/Transcript",
+      "reason": "有引用但 8 层内仍未找到 FormProvider 来源,需要人工核实",
+      "detail": "引用链(前几层): components/sections/content/upload/media/index"
+    },
+    {
+      "component": "TableRowForm",
+      "path": "components/sections/ecommerce/admin/product-listing/steps/PricingQuantity",
+      "reason": "有引用但 8 层内仍未找到 FormProvider 来源,需要人工核实",
+      "detail": "引用链(前几层): components/sections/invoice/create-invoice/items-details/ItemDetailsForm"
+    },
+    {
+      "component": "ImagesDialog",
+      "path": "components/sections/ecommerce/admin/product-listing/steps/variations/ImagesDialog",
+      "reason": "有引用但 8 层内仍未找到 FormProvider 来源,需要人工核实",
+      "detail": "引用链(前几层): components/sections/ecommerce/admin/product-listing/steps/variations/OptionValueField"
+    },
+    {
+      "component": "OptionField",
+      "path": "components/sections/ecommerce/admin/product-listing/steps/variations/OptionField",
+      "reason": "有引用但 8 层内仍未找到 FormProvider 来源,需要人工核实",
+      "detail": "引用链(前几层): components/sections/ecommerce/admin/product-listing/steps/variations/VariantsList <- components/sections/ecommerce/admin/product-listing/steps/variations/ProductVariants"
+    },
+    {
+      "component": "Summary",
+      "path": "components/sections/ecommerce/admin/refund/aside/Summary",
+      "reason": "有引用但 8 层内仍未找到 FormProvider 来源,需要人工核实",
+      "detail": "引用链(前几层): components/sections/crm/deal-details/activity-summary/index <- components/sections/ecommerce/admin/refund/aside/index <- components/sections/ecommerce/customer/customer-account/index"
+    },
+    {
+      "component": "RefundItemTable",
+      "path": "components/sections/ecommerce/admin/refund/main/RefundItemTable",
+      "reason": "有引用但 8 层内仍未找到 FormProvider 来源,需要人工核实",
+      "detail": "引用链(前几层): components/sections/ecommerce/admin/refund/main/RefundItem <- components/sections/ecommerce/admin/refund/main/index"
+    },
+    {
+      "component": "PaymentMethods",
+      "path": "components/sections/ecommerce/customer/payment/PaymentMethods",
+      "reason": "有引用但 8 层内仍未找到 FormProvider 来源,需要人工核实",
+      "detail": "引用链(前几层): components/sections/ecommerce/customer/payment/index"
+    },
+    {
+      "component": "PriceFilterSection",
+      "path": "components/sections/ecommerce/customer/products/filter-panel/PriceFilterSection",
+      "reason": "有引用但 8 层内仍未找到 FormProvider 来源,需要人工核实",
+      "detail": "引用链(前几层): components/sections/ecommerce/customer/products/filter-panel/index"
+    },
+    {
+      "component": "EventFileDropHandler",
+      "path": "components/sections/events/create-event/EventFileDropHandler",
+      "reason": "有引用但 8 层内仍未找到 FormProvider 来源,需要人工核实",
+      "detail": "引用链(前几层): components/sections/events/create-event/main/draggable-section/EventInfoSection <- components/sections/events/create-event/main/draggable-section/EventListSection <- components/sections/events/create-event/main/draggable-section/index <- components/sections/events/create-event/main/draggable-section/index"
+    },
+    {
+      "component": "EventInfoSection",
+      "path": "components/sections/events/create-event/main/draggable-section/EventInfoSection",
+      "reason": "有引用但 8 层内仍未找到 FormProvider 来源,需要人工核实",
+      "detail": "引用链(前几层): components/sections/events/create-event/main/draggable-section/index"
+    },
+    {
+      "component": "EventListSection",
+      "path": "components/sections/events/create-event/main/draggable-section/EventListSection",
+      "reason": "有引用但 8 层内仍未找到 FormProvider 来源,需要人工核实",
+      "detail": "引用链(前几层): components/sections/events/create-event/main/draggable-section/index"
+    },
+    {
+      "component": "EventParagraphSection",
+      "path": "components/sections/events/create-event/main/draggable-section/EventParagraphSection",
+      "reason": "有引用但 8 层内仍未找到 FormProvider 来源,需要人工核实",
+      "detail": "引用链(前几层): components/sections/events/create-event/main/draggable-section/index"
+    },
+    {
+      "component": "CoverLetter",
+      "path": "components/sections/hiring/candidate/job-application/documents/CoverLetter",
+      "reason": "有引用但 8 层内仍未找到 FormProvider 来源,需要人工核实",
+      "detail": "引用链(前几层): components/sections/hiring/candidate/job-application/documents/index"
+    },
+    {
+      "component": "Resume",
+      "path": "components/sections/hiring/candidate/job-application/documents/Resume",
+      "reason": "有引用但 8 层内仍未找到 FormProvider 来源,需要人工核实",
+      "detail": "引用链(前几层): components/sections/hiring/candidate/job-application/documents/index"
+    },
+    {
+      "component": "AdditionalInfo",
+      "path": "components/sections/hiring/candidate/job-application/personal-information/AdditionalInfo",
+      "reason": "有引用但 8 层内仍未找到 FormProvider 来源,需要人工核实",
+      "detail": "引用链(前几层): components/sections/hiring/candidate/job-application/personal-information/index"
+    },
+    {
+      "component": "EducationInfo",
+      "path": "components/sections/hiring/candidate/job-application/personal-information/EducationInfo",
+      "reason": "有引用但 8 层内仍未找到 FormProvider 来源,需要人工核实",
+      "detail": "引用链(前几层): components/sections/hiring/candidate/job-application/personal-information/index <- components/sections/member/profile/profile-tabs/tab-panels/personal/index"
+    },
+    {
+      "component": "ExperienceInfo",
+      "path": "components/sections/hiring/candidate/job-application/personal-information/ExperienceInfo",
+      "reason": "有引用但 8 层内仍未找到 FormProvider 来源,需要人工核实",
+      "detail": "引用链(前几层): components/sections/hiring/candidate/job-application/personal-information/index <- components/sections/member/profile/profile-tabs/tab-panels/personal/index"
+    },
+    {
+      "component": "PreScreenQuestions",
+      "path": "components/sections/hiring/candidate/job-application/questionaries/PreScreenQuestions",
+      "reason": "有引用但 8 层内仍未找到 FormProvider 来源,需要人工核实",
+      "detail": "引用链(前几层): components/sections/hiring/candidate/job-application/questionaries/index"
+    },
+    {
+      "component": "TableRowForm",
+      "path": "components/sections/invoice/create-invoice/items-details/TableRowForm",
+      "reason": "有引用但 8 层内仍未找到 FormProvider 来源,需要人工核实",
+      "detail": "引用链(前几层): components/sections/invoice/create-invoice/items-details/ItemDetailsForm"
+    },
+    {
+      "component": "CreateProjectPreview",
+      "path": "components/sections/project/create-project/CreateProjectPreview",
+      "reason": "有引用但 8 层内仍未找到 FormProvider 来源,需要人工核实",
+      "detail": "引用链(前几层): components/sections/project/create-project/CreateProjectForm <- components/sections/project/pages/CreateProject"
+    },
+    {
+      "component": "CreateProjectStepper",
+      "path": "components/sections/project/create-project/CreateProjectStepper",
+      "reason": "有引用但 8 层内仍未找到 FormProvider 来源,需要人工核实",
+      "detail": "引用链(前几层): components/sections/project/create-project/CreateProjectForm <- components/sections/project/pages/CreateProject"
+    },
+    {
+      "component": "DefaultView",
+      "path": "components/sections/project/create-project/steps/DefaultView",
+      "reason": "有引用但 8 层内仍未找到 FormProvider 来源,需要人工核实",
+      "detail": "引用链(前几层): components/sections/project/create-project/CreateProjectStepper <- components/sections/project/create-project/CreateProjectForm <- components/sections/project/pages/CreateProject"
+    },
+    {
+      "component": "Group",
+      "path": "components/sections/project/create-project/steps/Group",
+      "reason": "有引用但 8 层内仍未找到 FormProvider 来源,需要人工核实",
+      "detail": "引用链(前几层): components/sections/project/create-project/CreateProjectStepper <- components/sections/project/create-project/CreateProjectForm <- components/sections/project/pages/CreateProject"
+    },
+    {
+      "component": "InviteMembers",
+      "path": "components/sections/project/create-project/steps/InviteMembers",
+      "reason": "有引用但 8 层内仍未找到 FormProvider 来源,需要人工核实",
+      "detail": "引用链(前几层): components/sections/project/create-project/CreateProjectStepper <- components/sections/project/create-project/CreateProjectForm <- components/sections/project/pages/CreateProject"
+    },
+    {
+      "component": "ProjectTitle",
+      "path": "components/sections/project/create-project/steps/ProjectTitle",
+      "reason": "有引用但 8 层内仍未找到 FormProvider 来源,需要人工核实",
+      "detail": "引用链(前几层): components/sections/project/create-project/CreateProjectStepper <- components/sections/project/create-project/CreateProjectForm <- components/sections/project/pages/CreateProject"
+    },
+    {
+      "component": "Tasks",
+      "path": "components/sections/project/create-project/steps/Tasks",
+      "reason": "有引用但 8 层内仍未找到 FormProvider 来源,需要人工核实",
+      "detail": "引用链(前几层): components/sections/project/create-project/CreateProjectStepper <- components/sections/project/create-project/CreateProjectForm <- components/sections/project/pages/CreateProject"
+    },
+    {
+      "component": "TimeSlotControl",
+      "path": "components/sections/scheduler/SchedulePanel/TimeSlotControl",
+      "reason": "有引用但 8 层内仍未找到 FormProvider 来源,需要人工核实",
+      "detail": "引用链(前几层): components/sections/scheduler/SchedulePanel/AvaibilityDayRow"
+    },
+    {
+      "component": "PulseOverlay",
+      "path": "components/sections/showcase/customize-layout/preview/PulseOverlay",
+      "reason": "有引用但 8 层内仍未找到 FormProvider 来源,需要人工核实",
+      "detail": "引用链(前几层): components/sections/showcase/customize-layout/preview/index"
+    }
+  ]
+}
