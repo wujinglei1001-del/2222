@@ -1,0 +1,427 @@
+{
+  "rows": [
+    {
+      "module": "ecommerce",
+      "parentName": "ProductListingStepper",
+      "parentPath": "components/sections/ecommerce/admin/product-listing/ProductListingStepper",
+      "childCount": 11,
+      "children": [
+        "Tags (components/sections/content/upload/common/form-fields/Tags)",
+        "Tags (components/sections/content/upload/media/form-fields/Tags)",
+        "Inventory (components/sections/ecommerce/admin/product-listing/steps/Inventory)",
+        "MediaFiles (components/sections/ecommerce/admin/product-listing/steps/MediaFiles)",
+        "NameDescription (components/sections/ecommerce/admin/product-listing/steps/NameDescription)",
+        "PricingQuantity (components/sections/ecommerce/admin/product-listing/steps/PricingQuantity)",
+        "OptionalInfo (components/sections/ecommerce/admin/product-listing/steps/product-information/OptionalInfo)",
+        "ProductDimensionInput (components/sections/ecommerce/admin/product-listing/steps/product-information/ProductDimensionInput)",
+        "Shipping (components/sections/ecommerce/admin/product-listing/steps/Shipping)",
+        "Tags (components/sections/ecommerce/admin/product-listing/steps/Tags)",
+        "VitalInfo (components/sections/ecommerce/admin/product-listing/steps/vital-info/VitalInfo)"
+      ]
+    },
+    {
+      "module": "kanban",
+      "parentName": "CreateBoardStepper",
+      "parentPath": "components/sections/kanban/create-board/CreateBoardStepper",
+      "childCount": 9,
+      "children": [
+        "BasicInfo (components/sections/content/upload/media/form-fields/BasicInfo)",
+        "BasicInfo (components/sections/hiring/candidate/job-application/personal-information/BasicInfo)",
+        "BackgroundOptions (components/sections/kanban/create-board/steps/Background/BackgroundOptions)",
+        "BasicInfo (components/sections/kanban/create-board/steps/BasicInfo)",
+        "ColumnStage (components/sections/kanban/create-board/steps/ColumnStage/ColumnStage)",
+        "DraggableColumnItem (components/sections/kanban/create-board/steps/ColumnStage/DraggableColumnItem)",
+        "LabelInfo (components/sections/kanban/create-board/steps/LabelInfo)",
+        "NewTeamTable (components/sections/kanban/create-board/steps/TeamInvite/NewTeamTable)",
+        "NewTeamTabPanel (components/sections/kanban/create-board/steps/TeamInvite/NewTeamTabPanel)"
+      ]
+    },
+    {
+      "module": "kanban",
+      "parentName": "TaskDetails",
+      "parentPath": "components/sections/kanban/kanban/task-details/TaskDetails",
+      "childCount": 8,
+      "children": [
+        "Attachments (components/sections/kanban/kanban/task-details/attachments/Attachments)",
+        "FileUploadArea (components/sections/kanban/kanban/task-details/attachments/FileUploadArea)",
+        "CheckList (components/sections/kanban/kanban/task-details/check-list/CheckList)",
+        "CoverImage (components/sections/kanban/kanban/task-details/cover-image/CoverImage)",
+        "Description (components/sections/kanban/kanban/task-details/description/Description)",
+        "EditDescription (components/sections/kanban/kanban/task-details/description/EditDescription)",
+        "TaskDetailsHeader (components/sections/kanban/kanban/task-details/TaskDetailsHeader)",
+        "TaskSummary (components/sections/kanban/kanban/task-details/TaskSummary)"
+      ]
+    },
+    {
+      "module": "chat",
+      "parentName": "ContentFooter",
+      "parentPath": "components/sections/chat/conversation/main/content-footer/ContentFooter",
+      "childCount": 7,
+      "children": [
+        "AttachmentPreview (components/sections/chat/conversation/main/content-footer/AttachmentPreview)",
+        "ChatAttachments (components/sections/chat/conversation/main/content-footer/controls/ChatAttachments)",
+        "ChatAudioRecorder (components/sections/chat/conversation/main/content-footer/controls/ChatAudioRecorder)",
+        "ChatCameraCapture (components/sections/chat/conversation/main/content-footer/controls/ChatCameraCapture)",
+        "ChatEmojiPicker (components/sections/chat/conversation/main/content-footer/controls/ChatEmojiPicker)",
+        "TextInput (components/sections/chat/conversation/main/content-footer/TextInput)",
+        "TextInput (components/sections/social/tab-panels/posts-panel/post/create-post/TextInput)"
+      ]
+    },
+    {
+      "module": "events",
+      "parentName": "index",
+      "parentPath": "components/sections/events/create-event/index",
+      "childCount": 6,
+      "children": [
+        "EventPrivacy (components/sections/events/create-event/aside/EventPrivacy)",
+        "TicketPrice (components/sections/events/create-event/aside/TicketPrice)",
+        "DraggableEventSection (components/sections/events/create-event/main/draggable-section/index)",
+        "EventImageDropzone (components/sections/events/create-event/main/EventImageDropzone)",
+        "EventOverview (components/sections/events/create-event/main/EventOverview)",
+        "EventSections (components/sections/events/create-event/main/EventSections)"
+      ]
+    },
+    {
+      "module": "project",
+      "parentName": "CreateAutomation",
+      "parentPath": "components/sections/project/pages/CreateAutomation",
+      "childCount": 6,
+      "children": [
+        "AutomationActionBlock (components/sections/project/automation/AutomationActionBlock)",
+        "AutomationReviewBar (components/sections/project/automation/AutomationReviewBar)",
+        "ConditionBlock (components/sections/project/automation/ConditionBlock)",
+        "SecondaryConditionFields (components/sections/project/automation/SecondaryConditionFields)",
+        "ThenThisHappensForm (components/sections/project/automation/ThenThisHappensForm)",
+        "WhenThisHappensForm (components/sections/project/automation/WhenThisHappensForm)"
+      ]
+    },
+    {
+      "module": "account",
+      "parentName": "LanguageRegionTabPanel",
+      "parentPath": "components/sections/account/language-region/LanguageRegionTabPanel",
+      "childCount": 5,
+      "children": [
+        "LanguageDialog (components/sections/account/language-region/LanguageDialog)",
+        "Languages (components/sections/account/language-region/Languages)",
+        "PreferredLanguage (components/sections/account/language-region/PreferredLanguage)",
+        "Region (components/sections/account/language-region/Region)",
+        "Language (components/sections/content/upload/common/form-fields/Language)"
+      ]
+    },
+    {
+      "module": "hiring",
+      "parentName": "NewOpeningStepper",
+      "parentPath": "components/sections/hiring/admin/new-opening/NewOpeningStepper",
+      "childCount": 5,
+      "children": [
+        "ApplicationDetails (components/sections/hiring/admin/new-opening/steps/ApplicationDetails/index)",
+        "HiringTeam (components/sections/hiring/admin/new-opening/steps/HiringTeam)",
+        "JobBoard (components/sections/hiring/admin/new-opening/steps/JobBoard)",
+        "JobInformation (components/sections/hiring/admin/new-opening/steps/JobInformation)",
+        "JobInformation (components/sections/member/new-member/steps/JobInformation)"
+      ]
+    },
+    {
+      "module": "hrm",
+      "parentName": "index",
+      "parentPath": "components/sections/hrm/performance-management/new-goal/index",
+      "childCount": 5,
+      "children": [
+        "AssignResponsibility (components/sections/hrm/performance-management/new-goal/AssignResponsibility)",
+        "CompletionSlider (components/sections/hrm/performance-management/new-goal/CompletionSlider)",
+        "GoalDetailsForm (components/sections/hrm/performance-management/new-goal/GoalDetailsForm)",
+        "ProgressWeightForm (components/sections/hrm/performance-management/new-goal/ProgressWeightForm)",
+        "WeightNumberField (components/sections/hrm/performance-management/new-goal/WeightNumberField)"
+      ]
+    },
+    {
+      "module": "invoice",
+      "parentName": "index",
+      "parentPath": "components/sections/invoice/create-invoice/index",
+      "childCount": 5,
+      "children": [
+        "InvoiceDetailsForm (components/sections/invoice/create-invoice/invoice-details/InvoiceDetailsForm)",
+        "Recipients (components/sections/invoice/create-invoice/invoice-details/Recipients)",
+        "InvoiceImageDropzone (components/sections/invoice/create-invoice/InvoiceImageDropzone)",
+        "InvoiceFooter (components/sections/invoice/create-invoice/items-details/InvoiceFooter)",
+        "ItemDetailsTableForm (components/sections/invoice/create-invoice/items-details/ItemDetailsForm)"
+      ]
+    },
+    {
+      "module": "account",
+      "parentName": "AccessibilityTabPanel",
+      "parentPath": "components/sections/account/accessibility/AccessibilityTabPanel",
+      "childCount": 3,
+      "children": [
+        "ColorFilter (components/sections/account/accessibility/ColorFilter)",
+        "Font (components/sections/account/accessibility/Font)",
+        "ThemeSwitcher (components/sections/account/accessibility/ThemeSwitcher)"
+      ]
+    },
+    {
+      "module": "account",
+      "parentName": "NotificationAlertsTabPanel",
+      "parentPath": "components/sections/account/notification-alerts/NotificationAlertsTabPanel",
+      "childCount": 3,
+      "children": [
+        "GeneralNotification (components/sections/account/notification-alerts/GeneralNotification)",
+        "NotificationOptions (components/sections/account/notification-alerts/NotificationOptions)",
+        "NotificationReceivingMethod (components/sections/account/notification-alerts/NotificationReceivingMethod)"
+      ]
+    },
+    {
+      "module": "account",
+      "parentName": "ShippingBillingAddressTabPanel",
+      "parentPath": "components/sections/account/shipping-billing-address/ShippingBillingAddressTabPanel",
+      "childCount": 3,
+      "children": [
+        "BillingAddress (components/sections/account/shipping-billing-address/BillingAddress)",
+        "ShippingAddress (components/sections/account/shipping-billing-address/ShippingAddress)",
+        "ShippingAddress (components/sections/ecommerce/customer/checkout/main/checkout-stepper/steps/ShippingAddress)"
+      ]
+    },
+    {
+      "module": "account",
+      "parentName": "UsersPermissionsTabPanel",
+      "parentPath": "components/sections/account/users-permissions/UsersPermissionsTabPanel",
+      "childCount": 3,
+      "children": [
+        "CollabPermissions (components/sections/account/users-permissions/CollabPermissions)",
+        "Global (components/sections/account/users-permissions/Global)",
+        "UserPermissions (components/sections/account/users-permissions/UserPermissions)"
+      ]
+    },
+    {
+      "module": "content",
+      "parentName": "CreateBlog",
+      "parentPath": "components/sections/content/views/CreateBlog",
+      "childCount": 3,
+      "children": [
+        "EditableTypography (components/sections/content/upload/blog/story/edit/EditableTypography)",
+        "StoryEdit (components/sections/content/upload/blog/story/edit/StoryEdit)",
+        "FormActions (components/sections/content/upload/form-actions/index)"
+      ]
+    },
+    {
+      "module": "crm",
+      "parentName": "AddContactStepper",
+      "parentPath": "components/sections/crm/add-contact/AddContactStepper",
+      "childCount": 3,
+      "children": [
+        "CompanyInfoForm (components/sections/crm/add-contact/steps/CompanyInfoForm)",
+        "LeadInfoForm (components/sections/crm/add-contact/steps/LeadInfoForm)",
+        "PersonalInfoForm (components/sections/crm/add-contact/steps/PersonalInfoForm)"
+      ]
+    },
+    {
+      "module": "dashboards",
+      "parentName": "ScheduleDialog",
+      "parentPath": "components/sections/dashboards/project/events/EventsCalendar/ScheduleDialog",
+      "childCount": 3,
+      "children": [
+        "EventDetails (components/sections/dashboards/project/events/EventsCalendar/EventDetails)",
+        "EventNotes (components/sections/dashboards/project/events/EventsCalendar/EventNotes)",
+        "EventTitleTime (components/sections/dashboards/project/events/EventsCalendar/EventTitleTime)"
+      ]
+    },
+    {
+      "module": "hrm",
+      "parentName": "ReportFormDialog",
+      "parentPath": "components/sections/hrm/performance-management/feedback/feedback-dialog/ReportFormDialog",
+      "childCount": 3,
+      "children": [
+        "ControlledRatingCard (components/sections/hrm/performance-management/feedback/feedback-dialog/ControlledRatingCard)",
+        "FinalAssessment (components/sections/hrm/performance-management/feedback/feedback-dialog/FinalAssessment)",
+        "Questions (components/sections/hrm/performance-management/feedback/feedback-dialog/Questions)"
+      ]
+    },
+    {
+      "module": "member",
+      "parentName": "NewMemberStepper",
+      "parentPath": "components/sections/member/new-member/NewMemberStepper",
+      "childCount": 3,
+      "children": [
+        "Address (components/sections/member/new-member/steps/Address)",
+        "Contract (components/sections/member/new-member/steps/Contract)",
+        "Pay (components/sections/member/new-member/steps/Pay)"
+      ]
+    },
+    {
+      "module": "scheduler",
+      "parentName": "SchedulerPanel",
+      "parentPath": "components/sections/scheduler/SchedulePanel/SchedulerPanel",
+      "childCount": 3,
+      "children": [
+        "AppointmentConfig (components/sections/scheduler/SchedulePanel/AppointmentConfig)",
+        "AvailabilityConfig (components/sections/scheduler/SchedulePanel/AvailabilityConfig)",
+        "ScheduleConfig (components/sections/scheduler/SchedulePanel/ScheduleConfig)"
+      ]
+    },
+    {
+      "module": "showcase",
+      "parentName": "index",
+      "parentPath": "components/sections/showcase/customize-layout/index",
+      "childCount": 3,
+      "children": [
+        "ConfigMenu (components/sections/showcase/customize-layout/components/ConfigMenu)",
+        "ConfigMenuItem (components/sections/showcase/customize-layout/components/ConfigMenuItem)",
+        "LayoutPreview (components/sections/showcase/customize-layout/preview/index)"
+      ]
+    },
+    {
+      "module": "account",
+      "parentName": "PrivacyProtectionTabPanel",
+      "parentPath": "components/sections/account/privacy-protection/PrivacyProtectionTabPanel",
+      "childCount": 2,
+      "children": [
+        "LoginAlerts (components/sections/account/privacy-protection/LoginAlerts)",
+        "TwoFactorAuthOTP (components/sections/account/privacy-protection/TwoFactorAuthOTP)"
+      ]
+    },
+    {
+      "module": "ecommerce",
+      "parentName": "CheckoutStepper",
+      "parentPath": "components/sections/ecommerce/customer/checkout/main/checkout-stepper/CheckoutStepper",
+      "childCount": 2,
+      "children": [
+        "CustomerInfo (components/sections/ecommerce/customer/checkout/main/checkout-stepper/steps/CustomerInfo)",
+        "DeliveryOptions (components/sections/ecommerce/customer/checkout/main/checkout-stepper/steps/DeliveryOptions)"
+      ]
+    },
+    {
+      "module": "events",
+      "parentName": "TicketPurchaseDrawer",
+      "parentPath": "components/sections/events/event-detail/TicketPurchaseDrawer",
+      "childCount": 2,
+      "children": [
+        "EventTicketForm (components/sections/events/event-detail/EventTicketForm)",
+        "EventPaymentMethod (components/sections/events/event-detail/main/EventPaymentMethod)"
+      ]
+    },
+    {
+      "module": "account",
+      "parentName": "ChatPreferencesTabPanel",
+      "parentPath": "components/sections/account/chat-preferences/ChatPreferencesTabPanel",
+      "childCount": 1,
+      "children": [
+        "GeneralSettings (components/sections/account/chat-preferences/GeneralSettings)"
+      ]
+    },
+    {
+      "module": "account",
+      "parentName": "DateAndTime",
+      "parentPath": "components/sections/account/date-time/DateAndTime",
+      "childCount": 1,
+      "children": [
+        "AccountFormDialog (components/sections/account/common/AccountFormDialog)"
+      ]
+    },
+    {
+      "module": "account",
+      "parentName": "PaymentMethodsSection",
+      "parentPath": "components/sections/account/credit-card/PaymentMethodsSection",
+      "childCount": 1,
+      "children": [
+        "CardFormDialog (components/sections/account/credit-card/CardFormDialog)"
+      ]
+    },
+    {
+      "module": "ecommerce",
+      "parentName": "ProductList",
+      "parentPath": "components/sections/ecommerce/customer/wishlist/ProductList",
+      "childCount": 1,
+      "children": [
+        "WishlistedProduct (components/sections/ecommerce/customer/wishlist/WishlistedProduct)"
+      ]
+    },
+    {
+      "module": "hiring",
+      "parentName": "index",
+      "parentPath": "components/sections/hiring/candidate/job-application/index",
+      "childCount": 1,
+      "children": [
+        "PersonalInformation (components/sections/member/new-member/steps/PersonalInformation)"
+      ]
+    },
+    {
+      "module": "social",
+      "parentName": "CreatePost",
+      "parentPath": "components/sections/social/tab-panels/posts-panel/post/create-post/CreatePost",
+      "childCount": 1,
+      "children": [
+        "AddMedia (components/sections/social/tab-panels/posts-panel/post/create-post/AddMedia)"
+      ]
+    }
+  ],
+  "unresolved": [
+    "CalendarEventForm (components/sections/calendar/EventDialog/CalendarEventForm)",
+    "CalendarTaskForm (components/sections/calendar/EventDialog/CalendarTaskForm)",
+    "EventDateTimePicker (components/sections/calendar/EventDialog/EventDateTimePicker)",
+    "EventDetailsSection (components/sections/calendar/EventDialog/EventDetailsSection)",
+    "ContentSettingsForm (components/sections/content/upload/blog/info/ContentSettingsForm)",
+    "PrimaryContentForm (components/sections/content/upload/blog/info/PrimaryContentForm)",
+    "StoryPreview (components/sections/content/upload/blog/story/preview/StoryPreview)",
+    "Accessibility (components/sections/content/upload/common/form-fields/Accessibility)",
+    "TargetAudience (components/sections/content/upload/common/form-fields/TargetAudience)",
+    "Thumbnail (components/sections/content/upload/common/form-fields/Thumbnail)",
+    "Topics (components/sections/content/upload/common/form-fields/Topics)",
+    "MediaUpload (components/sections/content/upload/media/form-fields/media-upload/index)",
+    "PodcastPlaylist (components/sections/content/upload/media/form-fields/podcast-playlist/index)",
+    "PodcastPlaylistMeta (components/sections/content/upload/media/form-fields/PodcastPlaylistMeta)",
+    "Thumbnail (components/sections/content/upload/media/form-fields/Thumbnail)",
+    "Topics (components/sections/content/upload/media/form-fields/Topics)",
+    "Transcript (components/sections/content/upload/media/form-fields/Transcript)",
+    "TableRowForm (components/sections/ecommerce/admin/product-listing/steps/PricingQuantity)",
+    "ImagesDialog (components/sections/ecommerce/admin/product-listing/steps/variations/ImagesDialog)",
+    "OptionField (components/sections/ecommerce/admin/product-listing/steps/variations/OptionField)",
+    "OptionValueField (components/sections/ecommerce/admin/product-listing/steps/variations/OptionValueField)",
+    "ProductVariants (components/sections/ecommerce/admin/product-listing/steps/variations/ProductVariants)",
+    "CategorySelect (components/sections/ecommerce/admin/product-listing/steps/vital-info/CategorySelect)",
+    "Summary (components/sections/ecommerce/admin/refund/aside/Summary)",
+    "RefundItemTable (components/sections/ecommerce/admin/refund/main/RefundItemTable)",
+    "PaymentMethods (components/sections/ecommerce/customer/payment/PaymentMethods)",
+    "FilterSection (components/sections/ecommerce/customer/products/filter-panel/FilterSection)",
+    "PriceFilterSection (components/sections/ecommerce/customer/products/filter-panel/PriceFilterSection)",
+    "ProductList (components/sections/ecommerce/customer/wishlist/ProductList)",
+    "EventFileDropHandler (components/sections/events/create-event/EventFileDropHandler)",
+    "EventInfoSection (components/sections/events/create-event/main/draggable-section/EventInfoSection)",
+    "EventListSection (components/sections/events/create-event/main/draggable-section/EventListSection)",
+    "EventParagraphSection (components/sections/events/create-event/main/draggable-section/EventParagraphSection)",
+    "CoverLetter (components/sections/hiring/candidate/job-application/documents/CoverLetter)",
+    "Resume (components/sections/hiring/candidate/job-application/documents/Resume)",
+    "AdditionalInfo (components/sections/hiring/candidate/job-application/personal-information/AdditionalInfo)",
+    "EducationInfo (components/sections/hiring/candidate/job-application/personal-information/EducationInfo)",
+    "EducationFormItem (components/sections/hiring/candidate/job-application/personal-information/EducationInfo)",
+    "ExperienceInfo (components/sections/hiring/candidate/job-application/personal-information/ExperienceInfo)",
+    "ExperienceFormItem (components/sections/hiring/candidate/job-application/personal-information/ExperienceInfo)",
+    "PreScreenQuestions (components/sections/hiring/candidate/job-application/questionaries/PreScreenQuestions)",
+    "StrengthsAndWeaknesses (components/sections/hiring/candidate/job-application/questionaries/VideoResponses)",
+    "ApplyingReason (components/sections/hiring/candidate/job-application/questionaries/VideoResponses)",
+    "SubGoalItem (components/sections/hrm/performance-management/new-goal/ProgressWeightForm)",
+    "TableRowForm (components/sections/invoice/create-invoice/items-details/TableRowForm)",
+    "ChangeDateActionFields (components/sections/project/automation/action-fields/ChangeDateActionFields)",
+    "ChangePriorityActionFields (components/sections/project/automation/action-fields/ChangePriorityActionFields)",
+    "CreateTaskSubtaskActionFields (components/sections/project/automation/action-fields/CreateTaskSubtaskActionFields)",
+    "GroupSelectActionFields (components/sections/project/automation/action-fields/GroupSelectActionFields)",
+    "StatusSelectActionFields (components/sections/project/automation/action-fields/StatusSelectActionFields)",
+    "DateBeforeAfterConditionFields (components/sections/project/automation/condition-fields/DateBeforeAfterConditionFields)",
+    "FromToSelectConditionFields (components/sections/project/automation/condition-fields/FromToSelectConditionFields)",
+    "MultiSelectConditionFields (components/sections/project/automation/condition-fields/MultiSelectConditionFields)",
+    "AutomationDatePicker (components/sections/project/automation/shared/AutomationDatePicker)",
+    "SearchableMultiSelect (components/sections/project/automation/shared/SearchableMultiSelect)",
+    "CreateProjectPreview (components/sections/project/create-project/CreateProjectPreview)",
+    "CreateProjectStepper (components/sections/project/create-project/CreateProjectStepper)",
+    "DefaultView (components/sections/project/create-project/steps/DefaultView)",
+    "GroupRow (components/sections/project/create-project/steps/Group)",
+    "Group (components/sections/project/create-project/steps/Group)",
+    "InviteMembers (components/sections/project/create-project/steps/InviteMembers)",
+    "ProjectTitle (components/sections/project/create-project/steps/ProjectTitle)",
+    "StatusRow (components/sections/project/create-project/steps/Status)",
+    "StatusGroup (components/sections/project/create-project/steps/Status)",
+    "Status (components/sections/project/create-project/steps/Status)",
+    "Tasks (components/sections/project/create-project/steps/Tasks)",
+    "TimeSlotControl (components/sections/scheduler/SchedulePanel/TimeSlotControl)",
+    "PulseOverlay (components/sections/showcase/customize-layout/preview/PulseOverlay)",
+    "VideoCapture (components/sections/social/tab-panels/posts-panel/post/create-post/VideoCapture)"
+  ]
+}

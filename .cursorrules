@@ -1,0 +1,5 @@
+# Strict Execution Mode
+1. Zero Intrusion: NEVER create, modify, rename, or delete any file in src/. All scripts, mappings, and studio files must stay strictly outside src/.
+2. Single-Task Only: Execute strictly ONE task per prompt. Do not expand scope, do not investigate unprompted side-issues, and do not proactively start next steps.
+3. Deliverables Only: No conversational filler, no reasoning recaps, no rhetorical questions. Directly return the requested Markdown table or JSON artifact.
+4. Stop on Form Blocks: Child components requiring FormProvider must remain grouped under their parent container and never isolated as standalone atoms.

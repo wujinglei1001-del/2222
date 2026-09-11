@@ -91,7 +91,7 @@ export default function DashboardPage() {
   };
   return (
     <Box sx={{ p: 4 }}>
-      <Typography variant="h4" mb={4}>云桌面画布</Typography>
+      <Typography variant="h4" sx={{ mb: 4 }}>云桌面画布</Typography>
       <DndContext sensors={sensors} collisionDetection={closestCenter} onDragEnd={handleDragEnd}>
         <SortableContext items={items} strategy={rectSortingStrategy}>
           <Grid container spacing={3}>
