@@ -18,6 +18,7 @@ import PersonalInfoForm, {
   PersonalInfo,
   personalInfoSchema,
 } from 'components/sections/crm/add-contact/steps/PersonalInfoForm';
+import { supabase } from 'services/supabase/supabaseClient';
 
 interface AddContactStepperStep {
   id: number;
@@ -112,8 +113,15 @@ const AddContactStepper = () => {
     setActiveStep((prevStep) => prevStep - 1);
   };
 
-  const onSubmit: SubmitHandler<ContactForm> = (data) => {
-    console.log('Form data', data);
+  const onSubmit: SubmitHandler<ContactForm> = async (data) => {
+    const { error } = await supabase.from('contacts').insert({ data });
+
+    if (error) {
+      console.error('Supabase insert failed', error);
+      enqueueSnackbar(`保存失败: ${error.message}`, { variant: 'error' });
+      return;
+    }
+
     enqueueSnackbar('Contact added successfully', { variant: 'success' });
     reset();
     setCompletedSteps({});
